@@ -103,12 +103,24 @@
 - Docker is our priority
 - 
 
+### Essentials
 
-
-
-
+- Consistently analyse and take ideas from it.
+- Best practices methods
+- PR Methods
+- Code of Conduct
+- Business Principles
+- Philosophy of Software
+- Many more like CLI me kaise work hota hai
+- Code binding
+- CI/CD
+- code coverage
+- version system
+- Issue tag system
+- Docs System
+- Software architecture design
+- Agile methods
 
 ## Rishabh 
 
 - Books on Software Engineering
-- 
