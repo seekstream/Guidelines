@@ -23,7 +23,6 @@
 - Code Review System
 - Automatic Meeting Scheduling System with Slack
 - Add persons as Owners, Maintainers and Members
-- 
 
 ## Timings
 
@@ -76,8 +75,6 @@
 - GitHub Actions for CI/CD
 - CONTRIBUTING Guidelines
 - UML Diagrams
-- 
-
 
 ### Learning Repositories
 
@@ -101,7 +98,6 @@
 - Learning micro frontend with vite/web pack
 - Deploying frontend application
 - Docker is our priority
-- 
 
 ### Essentials
 
