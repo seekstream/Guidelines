@@ -1,34 +1,24 @@
 # Guidelines
 
-- For me, it's a long-term project from technology to commercial level. [300 Weeks Long Working].
+- It's a long-term project from technology to commercial level.
 - Steady and Consistent Work on that project to the following 2100 Days.
-
----
-
-- Infinity Loop of Codebase: **Plan - Code - Build - Test - Release - Deploy - Operate - Monitor**
-- If, anyone reports any bugs, enhancements or features. **Strong evidence and a long conversation of clarity are so substantial**
-- All chats on the **Github Issues**
-- **Contributor License Agreement (CLA)** is necessary
-
-## GitHub Features
-
-- GitHub Team
-- GitHub Actions - Automate workflow from ideas to production
-- Code Packages on GitHub
-- Better Security
-- Code Search
-- Project Planning
-- Discussion Forum on Github
-- Codespaces on Github
-- Code Review System
-- Automatic Meeting Scheduling System with Slack
-- Add persons as Owners, Maintainers and Members
 
 ## Timings
 
 - Total - 12 Hours per Week
   - Working: Monday to Friday - Each 2 Hours [10 Hours]
   - Meeting: Saturday and Sunday - Each 1 Hour [2 Hours]
+
+## Necessaries
+
+- **Contributor License Agreement (CLA)**
+- **Agile Methods**
+- **Docker** is priority
+- All chats on the **Github Issues**
+- If, anyone reports any bugs, enhancements or features. **Strong evidence and a long conversation of clarity are so substantial**
+- **CONTRIBUTING.md** Guidance
+- **CODE OF CONDUCT**
+- **LICENSE**
 
 ### Major Departments
 
@@ -41,10 +31,8 @@
 
 ## Important 
 
-- Data Structures and Algorithms in Java
-- Data Structures and Algorithms in Javascript and Typescript
-- Design Patterns in Java
-- Design Patterns in Javascript and Typescript
+- Data Structures and Algorithms in Java, Javascript and Typescript
+- Design Patterns in Java, Javascript and Typescript
 - Maintainable and Reusable Code
 - Focus on Pseudo-Code conversion to Real-code
 - Meaningful Comment in Codes
@@ -65,8 +53,8 @@
 - Database - MongoDB
 - Frontend - REACT with Typescript XML
 - Backend - JAVA [Spring Boot]
-- CSS - TailwindCSS
-- Data Serialization - YAML
+- CSS - TailwindCSS [Own Wrapper]
+- Data Serialization - YAML and also spring-boot have their own
 - Codebase - GitHub
 - Version Control System - Git
 - IDE - VS Code
@@ -75,6 +63,7 @@
 - GitHub Actions for CI/CD
 - CONTRIBUTING Guidelines
 - UML Diagrams
+- Bun Vs npm Vs Yarn - Package Manager
 
 ### Learning Repositories
 
@@ -115,8 +104,19 @@
 - Issue tag system
 - Docs System
 - Software architecture design
-- Agile methods
+---
+- Infinity Loop of Codebase: **Plan - Code - Build - Test - Release - Deploy - Operate - Monitor**
 
-## Rishabh 
+## GitHub Features
 
-- Books on Software Engineering
+- GitHub Team
+- GitHub Actions - Automate workflow from ideas to production
+- Code Packages on GitHub
+- Better Security
+- Code Search
+- Project Planning
+- Discussion Forum on Github
+- Codespaces on Github
+- Code Review System
+- Automatic Meeting Scheduling System with Slack
+- Add persons as Owners, Maintainers and Members
